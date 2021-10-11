@@ -5,7 +5,7 @@
   
 <div align="center">
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afar-cmyk&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afar-cmyk&show_icons=true&theme=dark&icon_color=306A37&bg_color=0E1117&title_color=5AA6FC))](https://youtu.be/B-eyBBcfigA)
 
 </div>
 
