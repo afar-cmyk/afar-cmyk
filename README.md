@@ -1,6 +1,6 @@
 <p align="center"> 
-  Hi, just started to code this year. :man_technologist:<br/>
-  ~ let's make it happen! :rocket:
+  Achieving another great year of code. :man_technologist:<br/>
+  ~ Let's make it happen! :rocket:
 </p>
   
 <div align="center">
