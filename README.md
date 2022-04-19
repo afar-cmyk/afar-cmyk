@@ -1,5 +1,5 @@
 <p align="center"> 
-  Achieving another great year of code. :man_technologist:<br/>
+  Improving everyday. :man_technologist:<br/>
   ~ Let's make it happen! :rocket:
 </p>
   
