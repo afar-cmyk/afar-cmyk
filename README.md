@@ -1,6 +1,6 @@
 <p align="center"> 
   Improving everyday. :man_technologist:<br/>
-  ~ Let's make it happen! :rocket:
+  Let's make it happen! :rocket:
 </p>
   
 <div align="center">
