@@ -18,4 +18,4 @@ If you wanna know more about me, check my [LinkedIn](www.linkedin.com/in/afar-cm
 
 <hr>
 
-If you want to reach me you can send me a PM on twitter [@Afar_CMYK](https://twitter.com/Afar_CMYK).
+If you want to reach me you can send me a PM on [Twitter](https://twitter.com/Afar_CMYK).
