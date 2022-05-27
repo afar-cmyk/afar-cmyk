@@ -8,7 +8,7 @@ Hi! I am **[Andrés Felipe](https://github.com/afar-cmyk)**.
 
 <hr>
 
-I like programming, photography and Logo desing.
+I like programming, photography and Logo design.
 
 You will find most of my projects that I make in my free time here!
 
