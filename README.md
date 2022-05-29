@@ -14,7 +14,7 @@ You will find most of my projects that I make in my free time here!
 
 I’m currently learning **Devnet** in **Cisco Netacad** and i'm currently working on my personal webpage and a client's site.
 
-If you wanna know more about me, check my [LinkedIn](www.linkedin.com/in/afar-cmyk/) and [Instagram](https://www.instagram.com/afarvf/)
+If you wanna know more about me, check my [LinkedIn](https://www.linkedin.com/in/afar-cmyk/) and [Instagram](https://www.instagram.com/afarvf/)
 
 <hr>
 
