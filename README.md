@@ -9,5 +9,5 @@ You will find most of my projects that I work on in my free time here!
 
 
 If you want to know more about me, check out my [LinkedIn](https://www.linkedin.com/in/afar-cmyk/) and [Instagram](https://www.instagram.com/afarvf/),
-If you want to reach me out, you can send me a PM on [Twitter](https://twitter.com/Afar_CMYK).
+reach out to me on [Twitter](https://twitter.com/Afar_CMYK).
 
