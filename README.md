@@ -8,6 +8,6 @@ I have a passion for photography and logo design, and have also recently fallen 
 You will find most of my projects that I work on in my free time here!
 
 
-If you want to know more about me, check out my [LinkedIn](https://www.linkedin.com/in/afar-cmyk/) and [Instagram](https://www.instagram.com/afarvf/),
+If you want to know more about me, check out my [LinkedIn](https://www.linkedin.com/in/afar-cmyk/) and [Instagram](https://www.instagram.com/afar_cmyk/),
 reach out to me on [Twitter](https://twitter.com/Afar_CMYK).
 
